@@ -1,6 +1,6 @@
-module github.com/olezhek28/microservices_course_boilerplate
+module github.com/Paul1k96/microservices_course_boilerplate
 
-go 1.23
+go 1.23.2
 
 require github.com/fatih/color v1.17.0
 

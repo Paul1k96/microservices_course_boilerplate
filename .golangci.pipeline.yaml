@@ -41,6 +41,11 @@ linters:
     - revive
     - typecheck
     - unused
+    - lll
+    - funlen
+    - gocognit
+    - gocyclo
+    - gosimple
 
 issues:
   exclude-use-default: false
